@@ -32,7 +32,7 @@ Vue.component(Pagination.name, Pagination);
 //引入插件
 // import VueLazyload from 'vue-lazyload'
 // import atm from '@/assets/v2-5dbfe2662efe1a04fd5f4f8c1e930bc7_b.gif'
-//图片懒加载
+//图片懒加载--进行如下操作
 // Vue.use(VueLazyload, {
 //   loading: atm
 // });
