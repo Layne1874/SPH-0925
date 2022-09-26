@@ -51,7 +51,7 @@
 			<div class="line"></div>
 			<div class="bill">
 				<h5>发票信息：</h5>
-				<div>普通发票（电子） 个人 明细</div>
+				<div>普通发票（电子）个人明细</div>
 				<h5>使用优惠/抵用</h5>
 			</div>
 		</div>
@@ -99,7 +99,7 @@ export default {
 	name: "trAde",
 	data() {
 		return {
-			//收集买家的留言信息
+			//收集买家的留言信息132465
 			msg: "",
 			//订单号
 			orderId: "",
@@ -297,6 +297,7 @@ export default {
 				li {
 					line-height: 30px;
 					text-align: left;
+
 					p {
 						margin-bottom: 20px;
 					}
